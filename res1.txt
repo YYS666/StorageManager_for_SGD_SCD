@@ -1,0 +1,24 @@
+numAttr: 100
+numTuples: 10
+SGD in row storage: 0.00436
+SCD in row storage: 0.004888
+SGD in column storage: 0.005275
+SCD in column storage: 0.001579
+numAttr: 100
+numTuples: 100
+SGD in row storage: 0.013297
+SCD in row storage: 0.015194
+SGD in column storage: 0.014461
+SCD in column storage: 0.015129
+numAttr: 100
+numTuples: 1000
+SGD in row storage: 0.131906
+SCD in row storage: 0.217445
+SGD in column storage: 0.14414
+SCD in column storage: 0.218773
+numAttr: 100
+numTuples: 10000
+SGD in row storage: 1.33116
+SCD in row storage: 10.5093
+SGD in column storage: 1.48304
+SCD in column storage: 10.4227
